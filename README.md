@@ -1,0 +1,1 @@
+This repo is a collection of useful Blockbench project files to make it easier for the mass production of isometric renders for various Minecraft and Minecraft adjacent Wikis. This project is in no way affiliated with the Minecraft Wiki, WeirdGloop, Mojang Studios, or Microsoft.
